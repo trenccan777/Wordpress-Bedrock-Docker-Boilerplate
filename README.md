@@ -26,6 +26,8 @@ composer create-project roots/bedrock
 ```
 docker-compose up -d
 ```
+Note: after running the command above, WordPress container will create wp installation files which you can ignore in `.gitignore` file of your project.
+
 - WordPress is ready for installation on the `http://registered-ip-in-env-file/web`
 
 ## WP-CLI
