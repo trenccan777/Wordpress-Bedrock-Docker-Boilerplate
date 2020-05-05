@@ -30,7 +30,7 @@ Note: after running the command above, WordPress container will create wp instal
 
 ```
 # Old WP
-*.php
+/*.php
 *.sql
 license.txt
 wp-admin/
