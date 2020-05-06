@@ -30,12 +30,13 @@ Note: after running the command above, WordPress container will create wp instal
 
 ```
 # Old WP
+/readme.html
 /*.php
-*.sql
-license.txt
-wp-admin/
-wp-content/
-wp-includes/
+/*.sql
+/license.txt
+/wp-admin/
+/wp-content/
+/wp-includes/
 ````
 
 - WordPress is ready for installation on the `WP_HOME` url.
